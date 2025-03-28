@@ -9,4 +9,5 @@ dependencies:
   - notebook=6.2.0
   - rasterio=1.2.0
   - rasterstats=0.14.0
+  - ipympl>0.9
 prefix: C:\Users\e16006469\Anaconda3\envs\egm722

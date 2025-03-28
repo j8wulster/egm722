@@ -3,6 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
+
   - python
   - geopandas
   - cartopy>=0.21
@@ -11,3 +12,7 @@ dependencies:
   - rasterio
   - pyepsg
   - folium
+  - notebook=6.2.0
+  - rasterstats=0.14.0
+  - ipympl>0.9
+
